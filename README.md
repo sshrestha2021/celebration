@@ -1,1 +1,3 @@
-# celebration
+# maven-project
+
+Simple Maven Project
